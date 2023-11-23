@@ -2,3 +2,39 @@ html, body {
   font-family: 'Inter', sans-serif;
   font-family: 'Lato', sans-serif;
 }
+
+body {
+  background: linear-gradient(darkblue, black)
+}
+
+.div1 {
+  background: linear-gradient(seagreen, darkgreen
+  );
+}
+
+.div2 {
+  background-color: rgb(0, 0, 0, 0.2);
+}
+
+.div1, .div2 {
+  margin: 20px;
+  border-radius: 10px;
+  padding: 2px 20px 2px 20px;
+}
+
+h3 {
+  color: yellowgreen;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  color: yellow;
+}
+
+a:visited{
+  color: grey;
+}
